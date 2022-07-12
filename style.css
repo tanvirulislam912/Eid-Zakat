@@ -1,10 +1,8 @@
 .img{
     background-image: url(images/cow-market2.jpg);
-    
-    background-size: cover;
-    margin-top:0 px;
-    width: 100%;
-    height: 100%;
+    background-size:cover;
+    width:auto;
+    height:auto;
    
 }
 .para{
